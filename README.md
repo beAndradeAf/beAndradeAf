@@ -1,7 +1,9 @@
-👋 Olá, eu sou Bernardo Alvim Fagundes de Andrade
+👋 Olá, eu sou Bernardo Andrade
 
 🎓 Estudante de Engenharia de Software na PUC Minas
+
 💻 Técnico em Informática formado pela Nova Faculdade
+
 🚀 Apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras
 
 
